@@ -1,13 +1,13 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
+title: Fan's Blog
+SEOTitle: HIKARI的博客
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: hfans07@outlook.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+keyword: "HF, Fans, Hikari, Java"
+url: "https://hfans07.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/hfans07.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     none
+zhihu_username:     none
+github_username:    hfans07
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   hfans07
 
 
 # Build settings
